@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://flexiplantillas.flexipaginas.net/$1"
+ }
+  ]
+}
